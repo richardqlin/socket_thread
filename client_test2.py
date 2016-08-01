@@ -1,7 +1,6 @@
 #------------------------------------------------------------------------------
 #           Name: socket_test_client.py
-#         Author: Kevin Harris
-#  Last Modified: 02/13/04
+#         
 #    Description: This Python script demonstrates how to create a socket,
 #                 which sends out a UDP packet every 2 seconds.
 #

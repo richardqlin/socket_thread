@@ -1,7 +1,5 @@
 #------------------------------------------------------------------------------
 #           Name: socket_test_server.py
-#         Author: Kevin Harris
-#  Last Modified: 02/13/04
 #    Description: This Python script demonstrates how to create a socket,
 #                 which will act as a simple server by listening to port 5000.
 #
